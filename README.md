@@ -5,9 +5,12 @@ By Luca Bianco S280382, Jose Isola Quezada S288726, Simone Zizzari S292724
 How to use these files
 
 
+Numerical results available in the "Domain Adaptation in Semantic Segmentation" pdf file
+
+
 Place all dataset files (https://mega.nz/file/ERkiQBaY#h-wktK7U7MpIG5nf-rMWF7d76NEM5ae_MrAmELftNR0) as a folder named "data" 
 
-Checkpoints for all models are already available, and the correspoinding semantic segmentation outputs can be seen in "best_pseudolabels{model_type}", so there is no need to run any code to obtain them
+Checkpoints and detailed numerical results for all models are already available in "checkpoints{model_type}", and the correspoinding semantic segmentation outputs can be seen in "best_pseudolabels{model_type}", so there is no need to run any code to obtain them
 
 The colorized ground truth labels for Cityscapes are also availabe in "color_labels"
 
