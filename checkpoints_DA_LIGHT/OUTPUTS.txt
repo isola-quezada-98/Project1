@@ -1,0 +1,119 @@
+﻿epoch 0, lr 0.025000: 100% 500/500 [12:03<00:00,  1.45s/it, loss=2.737459]
+loss for train : 3.767927
+epoch 1, lr 0.024567: 100% 500/500 [03:17<00:00,  2.53it/s, loss=2.190175]
+loss for train : 2.525804
+epoch 2, lr 0.024133: 100% 500/500 [03:18<00:00,  2.52it/s, loss=1.784365]
+loss for train : 2.098587
+epoch 3, lr 0.023698: 100% 500/500 [03:17<00:00,  2.54it/s, loss=1.481803]
+loss for train : 1.837935
+epoch 4, lr 0.023262: 100% 500/500 [03:15<00:00,  2.56it/s, loss=1.192255]
+loss for train : 1.594376
+epoch 5, lr 0.022826: 100% 500/500 [03:15<00:00,  2.56it/s, loss=1.064259]
+loss for train : 1.436358
+epoch 6, lr 0.022388: 100% 500/500 [03:16<00:00,  2.55it/s, loss=0.963184]
+loss for train : 1.250495
+epoch 7, lr 0.021950: 100% 500/500 [03:15<00:00,  2.56it/s, loss=0.836199]
+loss for train : 1.105806
+epoch 8, lr 0.021510: 100% 500/500 [03:14<00:00,  2.57it/s, loss=0.749668]
+loss for train : 1.002161
+epoch 9, lr 0.021070: 100% 500/500 [03:14<00:00,  2.57it/s, loss=0.673455]
+loss for train : 0.924239
+epoch 10, lr 0.020628: 100% 500/500 [03:14<00:00,  2.58it/s, loss=0.589576]
+loss for train : 0.845671
+start val!
+precision per pixel for test: 0.545
+mIoU for validation: 0.192
+epoch 11, lr 0.020186: 100% 500/500 [03:15<00:00,  2.56it/s, loss=0.556408]
+loss for train : 0.794902
+epoch 12, lr 0.019742: 100% 500/500 [03:14<00:00,  2.56it/s, loss=0.527215]
+loss for train : 0.752954
+epoch 13, lr 0.019297: 100% 500/500 [03:14<00:00,  2.57it/s, loss=0.488738]
+loss for train : 0.714161
+epoch 14, lr 0.018851: 100% 500/500 [03:15<00:00,  2.56it/s, loss=0.440994]
+loss for train : 0.682656
+epoch 15, lr 0.018404: 100% 500/500 [03:17<00:00,  2.54it/s, loss=0.423135]
+loss for train : 0.658038
+epoch 16, lr 0.017956: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.398104]
+loss for train : 0.636187
+epoch 17, lr 0.017506: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.381861]
+loss for train : 0.612252
+epoch 18, lr 0.017056: 100% 500/500 [03:20<00:00,  2.49it/s, loss=0.373806]
+loss for train : 0.589265
+epoch 19, lr 0.016603: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.353197]
+loss for train : 0.571660
+epoch 20, lr 0.016150: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.344214]
+loss for train : 0.559945
+start val!
+precision per pixel for test: 0.649
+mIoU for validation: 0.227
+epoch 21, lr 0.015695: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.340255]
+loss for train : 0.546349
+epoch 22, lr 0.015239: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.338397]
+loss for train : 0.538527
+epoch 23, lr 0.014781: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.321279]
+loss for train : 0.536752
+epoch 24, lr 0.014321: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.315109]
+loss for train : 0.534964
+epoch 25, lr 0.013860: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.313461]
+loss for train : 0.523870
+epoch 26, lr 0.013397: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.302309]
+loss for train : 0.506676
+epoch 27, lr 0.012933: 100% 500/500 [03:16<00:00,  2.55it/s, loss=0.301388]
+loss for train : 0.489821
+epoch 28, lr 0.012466: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.300882]
+loss for train : 0.479487
+epoch 29, lr 0.011998: 100% 500/500 [03:18<00:00,  2.52it/s, loss=0.292700]
+loss for train : 0.469385
+epoch 30, lr 0.011527: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.289251]
+loss for train : 0.462215
+start val!
+precision per pixel for test: 0.613
+mIoU for validation: 0.215
+epoch 31, lr 0.011054: 100% 500/500 [03:17<00:00,  2.54it/s, loss=0.282099]
+loss for train : 0.455151
+epoch 32, lr 0.010579: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.278724]
+loss for train : 0.448778
+epoch 33, lr 0.010102: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.269618]
+loss for train : 0.443350
+epoch 34, lr 0.009622: 100% 500/500 [03:17<00:00,  2.54it/s, loss=0.267491]
+loss for train : 0.437273
+epoch 35, lr 0.009140: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.264065]
+loss for train : 0.432898
+epoch 36, lr 0.008655: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.261820]
+loss for train : 0.427576
+epoch 37, lr 0.008166: 100% 500/500 [03:18<00:00,  2.52it/s, loss=0.254359]
+loss for train : 0.421669
+epoch 38, lr 0.007675: 100% 500/500 [03:18<00:00,  2.52it/s, loss=0.250638]
+loss for train : 0.416242
+epoch 39, lr 0.007179: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.247603]
+loss for train : 0.409941
+epoch 40, lr 0.006680: 100% 500/500 [03:16<00:00,  2.54it/s, loss=0.244447]
+loss for train : 0.405335
+start val!
+precision per pixel for test: 0.571
+mIoU for validation: 0.214
+epoch 41, lr 0.006177: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.243052]
+loss for train : 0.401258
+epoch 42, lr 0.005669: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.241854]
+loss for train : 0.398077
+epoch 43, lr 0.005157: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.241132]
+loss for train : 0.395333
+epoch 44, lr 0.004638: 100% 500/500 [03:18<00:00,  2.52it/s, loss=0.239578]
+loss for train : 0.393179
+epoch 45, lr 0.004113: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.238045]
+loss for train : 0.391292
+epoch 46, lr 0.003580: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.236653]
+loss for train : 0.389736
+epoch 47, lr 0.003038: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.235529]
+loss for train : 0.388303
+epoch 48, lr 0.002485: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.234786]
+loss for train : 0.387102
+epoch 49, lr 0.001918: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.234193]
+loss for train : 0.386149
+epoch 50, lr 0.001332: 100% 500/500 [03:17<00:00,  2.54it/s, loss=0.233557]
+loss for train : 0.385405
+start val!
+precision per pixel for test: 0.591
+mIoU for validation: 0.220
+epoch 51, lr 0.000714: 100% 500/500 [03:17<00:00,  2.53it/s, loss=0.232455]
+loss for train : 0.384673
