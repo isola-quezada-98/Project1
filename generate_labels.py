@@ -84,7 +84,7 @@ for i in range(len(outputs)):
         outputs[i] = np.squeeze(out, 0)
         outputs[i] = np.asarray(outputs[i], dtype=np.uint8)
         outputs[i] = colorize_mask(outputs[i])
-        outputs[i].save('./data/Cityscapes/best_pseudolabels_{}/{}'.format(model_type,img_file_name[1]))
+        outputs[i].save('./best_pseudolabels_{}/{}'.format(model_type,img_file_name[1]))
         
 
 
