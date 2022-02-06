@@ -57,6 +57,6 @@ for idx in range(len(img_files_txt)):
             label_copy[label == k] = v
           
           label_copy = colorize_mask(label_copy)
-          label_copy.save('./data/Cityscapes/color_labels/{}_gtFine_labelIds.png'.format(mask_file_name[0]))
+          label_copy.save('./color_labels/{}_gtFine_labelIds.png'.format(mask_file_name[0]))
           
 
