@@ -8,7 +8,7 @@ How to use these files
 Numerical results available in the "Domain Adaptation in Semantic Segmentation" pdf file
 
 
-Place all dataset files (https://mega.nz/file/ERkiQBaY#h-wktK7U7MpIG5nf-rMWF7d76NEM5ae_MrAmELftNR0) as a folder named "data" 
+Create a folder named "data" and place all dataset files as they are in (https://mega.nz/file/ERkiQBaY#h-wktK7U7MpIG5nf-rMWF7d76NEM5ae_MrAmELftNR0) 
 
 Checkpoints and detailed numerical results for all models are already available in "checkpoints{model_type}", and the correspoinding semantic segmentation outputs can be seen in "best_pseudolabels{model_type}", so there is no need to run any code to obtain them
 
